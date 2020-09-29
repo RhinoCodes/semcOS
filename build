@@ -1,0 +1,1 @@
+./mklive.sh -a x86_64 -p "xorg-server xinit openbox st dialog tint2 dejavu-fonts-ttf liberation-fonts-ttf xorg-input-drivers rsync xdotool xwallpaper  " -I rootfsx -T semcOS 

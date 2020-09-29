@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+TryExec=st
+Exec=st
+Icon=/usr/share/icons/st.png
+Terminal=false
+Categories=System;TerminalEmulator;
+
+Name=St
+GenericName=Terminal
+Comment=A suckless terminal emulator
+StartupWMClass=st
+Actions=New;
+
+[Desktop Action New]
+Name=New Terminal
+Exec=st
