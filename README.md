@@ -9,7 +9,7 @@ Available for x86_64, i386, and i686 computers.
 Details:
 * Openbox as WM
 * tint2 as panel
-* st as terminal
+* st as terminal<br>
 ... and thats it!
 
 This software is licensed under the `Mozilla Public License 2.0`.
